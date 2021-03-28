@@ -1,4 +1,4 @@
-This id my Unix lab 8 containing python and bash script files. 
+This is my Unix lab 8 containing python and bash script files. 
 
 P1Q1.py: Prints "Hello World"
 P1Q2.py: Prints "Hello World" and the date
